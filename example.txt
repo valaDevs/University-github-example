@@ -1,2 +1,6 @@
 Hello there 🤠
 Happy little programmer 
+
+## New Features added 
++ bug fix
++ Lib Update
